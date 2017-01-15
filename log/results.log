@@ -1,0 +1,5 @@
+{"someKey":"some-value","level":"info","message":"Hello log files!","timestamp":"5:51:56 PM"}
+{"level":"debug","message":"Now my debug messages are written to console!","timestamp":"5:51:56 PM"}
+{"level":"info","message":"Hello world","timestamp":"5:51:56 PM"}
+{"level":"warn","message":"Warning message","timestamp":"5:51:56 PM"}
+{"level":"debug","message":"Debugging info","timestamp":"5:51:56 PM"}
